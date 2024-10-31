@@ -1,5 +1,5 @@
 # Mariia Verkhovtseva 
-<img src="https://github.com/user-attachments/assets/b61394c9-f6f0-47b0-8d74-93e2314a083e" alt="image" width="200" />
+<img src="https://github.com/user-attachments/assets/b61394c9-f6f0-47b0-8d74-93e2314a083e" alt="image" width="150" />
 
 ## Contacts
 + Phone: +7 993 619 04 01
