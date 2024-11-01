@@ -6,6 +6,7 @@
 + E-mail: masha.verxovceva@gmail.com
 + GitHub: mymasha
 + Telegram: zoobliedooblie
+
 ## About Me
 I am a beginner in front-end development with a strong desire to grow and expand my skills in this field. Although I am at the start of my journey, I bring a meticulous approach to problem-solving and am highly proficient in English, which helps me navigate resources and communicate effectively.
 
@@ -16,6 +17,7 @@ My strengths include attention to detail, thoroughness, and a deep commitment to
 + Git, GitHub
 + JavaScript (Basic)
 + HTML
+
 ## Code Example
 ```
 function doubleInteger(i) {
