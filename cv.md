@@ -8,6 +8,11 @@
 + Telegram: zoobliedooblie
 
 ## About Me
+<style>
+  .about me{
+    font-size: 27px;
+  }
+</style>
 I am a beginner in front-end development with a strong desire to grow and expand my skills in this field. Although I am at the start of my journey, I bring a meticulous approach to problem-solving and am highly proficient in English, which helps me navigate resources and communicate effectively.
 
 I’m drawn to front-end development because it combines both creativity and logic—allowing me to build visually appealing and interactive user experiences. I see this field as one with endless opportunities for growth and am excited to keep learning, as web development offers continuous development both in technical skills and in creative expression.
